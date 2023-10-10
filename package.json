@@ -1,0 +1,29 @@
+{
+  "name": "idlescreen",
+  "version": "1.0.0",
+  "description": "A screensaver-like application made in react that acts like a hub screen, giving you information at a glance.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/notunk0wnalt/IdleScreen"
+  },
+  "author": "notunk0wn",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18",
+    "next": "13.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4"
+  }
+}
+
